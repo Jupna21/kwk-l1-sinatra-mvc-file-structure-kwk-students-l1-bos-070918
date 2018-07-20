@@ -9,4 +9,7 @@ class ApplicationController < Sinatra::Base
   	erb :index
   end
   
+  get 'karliekloss' do
+    erb :KarlieKloss
+  end
 end

@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Concert+One|Nunito+Barcode+128+Text|Questrial");
+body {
+  background-color:blue;
+  font-family: 'Concert One', cursive;
+}
+
+input {
+color: white;
+font-family: 'Concert One', cursive;
+}
+h2 {
+  font-family: 'Concert One', cursive;
+  font-size: 30pt;
+  margin-bottom:0pt;
+  margin-top: 5pt;
+  line-height: 25pt;
+}
+
+button {
+  font-family: 'Concert One', cursive;
+  -webkit-border-radius: 30;
+ -moz-border-radius: 46;
+ border-radius: 46px;
+ color: #ce2c65;
+ font-size: 30px;
+ background: #bae4e5;
+ padding: 10px 20px 10px 20px;
+ border: solid #ce2c65 4px;
+ text-decoration: none;
+
+}
+h4 {
+  font-family: Arvo;
+  font-size: 20pt;
+}
+
+
+.question {
+  border: dotted #000033 10px;
+  text-align: center;
+  font-family: 'Concert One', cursive;
+  color: #2d1700;
+  font-size: 15pt;
+}
+h1 {
+  font-family: 'Concert One', cursive;
+  font-size: 45pt;
+  text-align: center;
+  line-height: 50pt;
+}
+
+.header{
+  align: center;
+  font-family: 'Concert One', cursive;
+}
